@@ -14,9 +14,9 @@ public class Prueba_conexion_netbeans {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String... fragozo) {
         
-        System.out.println("prueba conexion netbeans github");
+        System.out.println("prueba de GitHub");
         
     }
     
